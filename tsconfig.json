@@ -29,6 +29,8 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/lib/supabaseClient.ts"  ],
   "exclude": ["node_modules"]
 }
+
+
